@@ -19,7 +19,7 @@ It is a  front-end only and is allows intants change to the DOM.
 The Documentation were easy to read. It can be in a JS file or Vue, hance can be confusing. Unlike React which uses a JXS, Vue use more of a 'templete' which uses  HTML tags and for some  make it more easier to read. 
 
 #### Systems Requirements
-Accorinf to the [Installation](https://vuejs.org/v2/guide/installation.html) their are many ways to install vue. As of right now Vue does not support IE8(aka 'Internet Explorer 8) and below, due to using ECMAScript 5/ES5. 
+Accoring to the [Installation](https://vuejs.org/v2/guide/installation.html) their are many ways to install vue. As of right now Vue does not support IE8(aka 'Internet Explorer 8) and below, due to using ECMAScript 5/ES5. 
 Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework? Can it play at AWS/Heroku? Does it require a certain database?
 
 #### Ramp-Up Projections
